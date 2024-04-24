@@ -5,4 +5,6 @@ A ranking and scoring system was applied to the RFM data to segment customers. T
 
 Software used: Python
 
+![image](https://www.segmentify.com/wp-content/uploads/2021/08/Top-Customer-Segmentation-Examples-every-Marketer-Needs-to-Know.png)
+
 **For more details, please look into the file since I explained very carefully in it.**
