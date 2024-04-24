@@ -4,7 +4,9 @@ This project used K-Means Clustering and RFM (Recency, Frequency, Monetary) anal
 A ranking and scoring system was applied to the RFM data to segment customers. The optimal number of customer groups was determined to be 5. The model was then trained, and a 3D visualization was created to explore the distribution of the customer segments.
 
 Software used: Python
+
 **For more details, please look into the file since I explained very carefully in it.**
+
 ![image](https://www.segmentify.com/wp-content/uploads/2021/08/Top-Customer-Segmentation-Examples-every-Marketer-Needs-to-Know.png)
 
 
